@@ -1,3 +1,4 @@
+// Exactly one word, nothing else.
 // One word, first thought: AXOLOTL.
 import { mkdir, writeFile } from "node:fs/promises";
 
